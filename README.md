@@ -25,15 +25,15 @@ Select your Security group and allow your EC2 to accept HTTP, HTTPS and SSH traf
 <img src="https://i.imgur.com/GlDg4ys.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Watch Video for description and Launch Instnace: <br/>
+<img src="https://i.imgur.com/QjXJDB2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a new instance using the first EC2 instances as a template and name it "BsWebserver02":  <br/>
+<img src="https://i.imgur.com/geXlqHY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
