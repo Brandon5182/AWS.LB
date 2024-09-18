@@ -55,7 +55,22 @@ Register your targets by adding your instance to the target group:  <br/>
 <br />
 Link your target group to a new load balancer:  <br/>
 <img src="https://i.imgur.com/UK0EntH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
- 
+<br />
+<br />
+Create your Load Balancer and configure your network mapping by selecting AZ's:  <br/>
+<img src="https://i.imgur.com/UB57K5y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
+<br />
+<br />
+Select your Target Group:  <br/>
+<img src="https://i.imgur.com/g1ZmhIS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
+<br />
+<br />
+Run a health check:  <br/>
+<img src="https://i.imgur.com/ziYIJ2Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
+<br />
+<br />
+The load balancer is complete:  <br/>
+<img src="https://i.imgur.com/1ie1z09.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
 </p>
 
 <!--
