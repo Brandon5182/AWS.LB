@@ -33,16 +33,16 @@ Create a new instance using the first EC2 instances as a template and name it "B
 <img src="https://i.imgur.com/geXlqHY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select the key pair and configure the network setting:  <br/>
+<img src="https://i.imgur.com/loEDy6n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+watch video for description and launch instance:  <br/>
+<img src="https://i.imgur.com/7wvuHU2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Observe both instances and make sure they're running:  <br/>
+<img src="https://i.imgur.com/0zToFW4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
