@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this assignment, I will demonstrate how to create a Load balancer in AWS by creating two EC2 instances. After I create a target group, link the two EC2 instances to the target, and associate them with a load balancer. 
+For this assignment, I will demonstrate the process of creating a Load Balancer in AWS. This involves deploying EC2 instances, setting up target groups, and configuring a load balancer to distribute traffic effectively across the instances. The purpose is to showcase how these components work together to ensure high availability and reliability within an AWS environment.
 <br />
 
 
