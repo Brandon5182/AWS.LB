@@ -43,6 +43,19 @@ watch video for description and launch instance:  <br/>
 <br />
 Observe both instances and make sure they're running:  <br/>
 <img src="https://i.imgur.com/0zToFW4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create your target group and specify your group details:  <br/>
+<img src="https://i.imgur.com/y2PTX9h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Register your targets by adding your instance to the target group:  <br/>
+<img src="https://i.imgur.com/7l9JM7J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
+<br />
+<br />
+Link your target group to a new load balancer:  <br/>
+<img src="https://i.imgur.com/UK0EntH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
+ 
 </p>
 
 <!--
