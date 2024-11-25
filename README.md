@@ -25,7 +25,7 @@ Select your Security group and allow your EC2 to accept HTTP, HTTPS and SSH traf
 <img src="https://i.imgur.com/GlDg4ys.png" height="80%" width="80%" alt="Load-Balancer"/>
 <br />
 <br />
-Watch Video for description and Launch Instnace: <br/>
+Watch the Video for description and Launch Instance: <br/>
 <img src="https://i.imgur.com/QjXJDB2.png" height="80%" width="80%" alt="Load-Balancer"/>
 <br />
 <br />
@@ -37,7 +37,7 @@ Select the key pair and configure the network setting:  <br/>
 <img src="https://i.imgur.com/loEDy6n.png" height="80%" width="80%" alt="Load-Balancer"/>
 <br />
 <br />
-watch video for description and launch instance:  <br/>
+watch the video for the description and launch instance:  <br/>
 <img src="https://i.imgur.com/7wvuHU2.png" height="80%" width="80%" alt="Load-Balancer"/>
 <br />
 <br />
